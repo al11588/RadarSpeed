@@ -1,4 +1,6 @@
+![Image of Visual Studio logo](https://upload.wikimedia.org/wikipedia/commons/2/20/Visualstudio_logo.png)
+
 RadarSpeed
 ==========
 
-Visual Basic Program That Measures Car Speed
+A radar speed program that was created in Visual Basic. 
